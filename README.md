@@ -1,1 +1,1 @@
-# Spam-Text-Classifier-Machine-Learning
+# Spam-Text-Classifier
